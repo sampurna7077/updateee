@@ -1,0 +1,53 @@
+[
+  {
+    "id": "admin-udaan-7075",
+    "email": "info.udaanagencies@gmail.com",
+    "first_name": "Udaan",
+    "last_name": "Admin",
+    "profile_image_url": null,
+    "role": "admin",
+    "created_at": "2025-09-03T12:41:00.000Z",
+    "updated_at": "2025-09-03T12:41:00.000Z",
+    "username": "Admin_Udaan_7075",
+    "password": "47e686ebb75e04ae588cdf39398caa730fa02d216fc680fa03e2037635d36e20f2b92a0e045b33b2a42e18e9e1a5a7836dc49c81d2f60d5c80232e091507a396.b073ba9931a7f29c3715ddba2878573a",
+    "encrypted_email": null,
+    "encrypted_first_name": null,
+    "encrypted_last_name": null
+  },
+  {
+    "id": "Z3n9eKzHcJ4qaupRFwtzH",
+    "username": "test",
+    "email": "sampurnaodari@gmail.com",
+    "password": "224b35d4a17bbfc57c99060f8ef59b3c9236fd0bcf45d12b6c6458074cac0363ff952973dab1b65b7a09f892b6036af431104679d7555082d753a3b6c3f5cd13.dd8d1a367d66e5601ce44f6b1b5297c4",
+    "role": "user",
+    "created_at": "2025-09-03T12:54:21.798Z",
+    "updated_at": "2025-09-03T12:54:21.798Z"
+  },
+  {
+    "id": "MiWwdGXfOpRLepwTus_9K",
+    "username": "testtt",
+    "email": "buyer@edlb.com",
+    "password": "4c401c0e41130399383f51e59304bcf5a6c0df8ab8fc83bcb9560e06bd17141339f4f62a5f280634934adc7c139ea8c63fc14eebc18d327f16edb2715e85fdab.e097546808d0b0a3846ade79b5f6768b",
+    "role": "user",
+    "created_at": "2025-09-03T13:35:52.792Z",
+    "updated_at": "2025-09-03T13:35:52.792Z"
+  },
+  {
+    "id": "96q_95X9SYvk_7WXdyCGz",
+    "username": "tetsst",
+    "email": "buy345er@edlb.com",
+    "password": "01004b4d40d108f94afd2b9bcd8304ee5338ada8b010a384e6182f608820d0e580a2df092c812f269e57dbcccfec65a703f8ff868f1d608aee4264587d08067a.79b9bc55601f8ad0cb4d39063830e79a",
+    "role": "user",
+    "created_at": "2025-09-03T19:14:50.204Z",
+    "updated_at": "2025-09-03T19:14:50.204Z"
+  },
+  {
+    "id": "uNoD7t0SJkg0GbuvTe9P-",
+    "username": "xopytaror",
+    "email": "qyfowuqax@mailinator.com",
+    "password": "11ae4c3598af4ae0536612754695d4a7dad9a977c9b31b4b9ce4b24e615ed3197b132b7a25d6bb7e9539197281b67f4c4d214a40a0a6e2a48f092471e1df1ca4.a39785eccfa31b304aa0634bf0dfe09d",
+    "role": "user",
+    "created_at": "2025-09-05T04:00:27.862Z",
+    "updated_at": "2025-09-05T04:00:27.862Z"
+  }
+]
